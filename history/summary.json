@@ -4,17 +4,19 @@
     "url": "https://itrans.app",
     "icon": "https://icons.duckduckgo.com/ip3/itrans.app.ico",
     "slug": "i-trans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 93,
-    "timeWeek": 136,
-    "timeMonth": 154,
-    "timeYear": 147,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 75,
+    "timeWeek": 126,
+    "timeMonth": 151,
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2024-06-10": 0
+    }
   }
 ]
