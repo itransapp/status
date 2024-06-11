@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/itrans.app.ico",
     "slug": "i-trans",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.96%",
+    "uptimeDay": "21.13%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "98.96%",
     "time": 145,
-    "timeDay": 75,
+    "timeDay": 72,
     "timeWeek": 126,
-    "timeMonth": 151,
+    "timeMonth": 148,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-06-10": 0
+      "2024-06-11": 67,
+      "2024-06-10": 1069
     }
   }
 ]
